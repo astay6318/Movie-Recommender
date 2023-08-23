@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+env/
+credits.csv
+keywords.csv
+links_small.csv
+movies_metadata.csv
+ratings_small.csv
+final_prediction_list.pkl
+movie_list.pkl
